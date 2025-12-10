@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Tongari Corn",
+  "base_artist": "Acchi Mello",
+  "createdAt": "2025-12-10T06:22:31.915760Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tongari Corn",
+      "artist": "Acchi Mello",
+      "has_synced": false,
+      "path": "select/pl_01_Tongari_Corn_Acchi_Mello.txt"
+    }
+  ]
+}
